@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Kiet Nguyen 👋</h1>
 
-I'm a backend-focused Software Engineer and a senior at **California State University Long Beach**, graduating in December 2025. I'm passionate about architecting and building robust, scalable, and high-performance distributed systems. My focus is on backend development, cloud infrastructure, and the tools that empower other developers to build amazing products.
+I'm a backend-focused Software Engineer and a senior at **California State University Long Beach**. I'm passionate about architecting and building robust, scalable, and high-performance distributed systems. My focus is on backend development, cloud infrastructure, and the tools that empower other developers to build amazing products.
 
 I thrive on taking ownership of complex problems and seeing them through from the initial design to a fully deployed, production-ready system.
 
