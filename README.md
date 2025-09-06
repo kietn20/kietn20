@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Kiet Nguyen 👋</h1>
 
-<!--
-**kietn20/kietn20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend-focused Software Engineer and a senior at **California State University Long Beach**, graduating in December 2025. I'm passionate about architecting and building robust, scalable, and high-performance distributed systems. My focus is on backend development, cloud infrastructure, and the tools that empower other developers to build amazing products.
 
-Here are some ideas to get you started:
+I thrive on taking ownership of complex problems and seeing them through from the initial design to a fully deployed, production-ready system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 My Tech Stack
+
+A collection of the tools and technologies I'm proficient in:
+
+| Languages                                                                                                                                                                                                           | Backend                                                                                                                                                                                        | Frontend                                                                                                                                                         | Databases & Data                                                                                                                                               | DevOps & Cloud                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" />                   | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" /> | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" /> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" /> | <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" /> |
+| <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" /> | <img src="https://img.shields.io/badge/gRPC-000000?logo=grpc&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" /> | <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" /> | <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" /> | <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" /> |
+
+---
+
+### ✨ Featured Projects
+
+Here are some of the projects I'm most proud of.
+
+| Project                                                              | Description                                                                                                                                                                                          | Technologies                                                                                                                                |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🛰️ **[locus](https://github.com/kietn20/locus)**                | A high-throughput, event-driven platform for real-time geospatial tracking and alerting. Architected to ingest and process low-latency telemetry from dozens of concurrent sources.                      | `Go`, `gRPC`, `PostgreSQL`, `PostGIS`, `MQTT`, `Docker`, `AWS`                                                                                |
+| 🎬 **[playlist-collaborator](https://github.com/kietn20/playlist-collaborator)** | A full-stack web application that allows multiple users to build and manage a shared media playlist in real time. Features a perfectly synchronized, shared viewing experience for all clients in a room. | `Java`, `Spring Boot`, `React`, `TypeScript`, `WebSockets`, `PostgreSQL`, `Docker`, `Nginx`, `AWS`, `CI/CD`                                 |
+| 🚀 **[iris](https://github.com/kietn20/iris)**                       | A high-performance image processing library where computationally expensive algorithms are written in C++ and exposed to a high-level, easy-to-use Python API using Pybind11.                             | `C++`, `Python`, `Pybind11`, `CMake`, `NumPy`                                                                                                 |
+| 📝 **[knotes-notes-app](https://github.com/kietn20/knotes-notes-app)** | A modern, real-time collaborative note-taking application. Features a rich text editor, hierarchical document organization, and secure user authentication.                                           | `Next.js`, `TypeScript`, `React`, `Convex`, `Clerk`, `TailwindCSS`                                                                             |
+
+---
+
+### 🌱 About Me & My Activity
+
+-   🎓 I'm currently a senior in Computer Science at **California State University Long Beach**.
+-   💡 My core interests are in **distributed systems, cloud infrastructure, developer tooling, and robotics**.
+-   🤝 I was a **Hackathon Committee Member and Workshop Lead** for BeachHacks, where I taught a full-stack development workshop to help beginner engineers build their first projects.
+-   📫 You can reach me via [**LinkedIn**](https://www.linkedin.com/in/kietnguyen39) or check out my [**portfolio website**](https://kietnguyen.vercel.app).
